@@ -1,4 +1,3 @@
-# CyberSecGPT
-CyberSecGPT: A domain-specific text generation language model
-
-This model has been trained on top of the gpt2 using ~5M cybersecurity text collected from news, blogs, papers, videos, surveys, and videos. 
+#SecureDeBERTa
+An extension language model to SecureBERT, built on top of the DeBERTa, trained on ~ 10 GB cybersecurity data.
+## The original model will be uploaded once the paper is published.

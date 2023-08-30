@@ -1,4 +1,4 @@
 # SecureDeBERTa
 
-An extension language model to SecureBERT, built on top of the DeBERTa, trained on ~ 10 GB cybersecurity data.
+A language model extension to SecureBERT, built on top of DeBERTa, underwent training using approximately 10 gigabytes of cybersecurity-related data."
 #### The original model will be uploaded once the paper is published.
